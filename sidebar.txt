@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sec:home|Door43 (sec)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sec|d43-sec repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sec/archive/master.zip|d43-sec.zip]]
+
+**Recent Changes**
+{{changes>ns = sec}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sec|Ethnologue data]]
+
